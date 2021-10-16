@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18667797271B3E3A00FC4E35 /* uiscrollview-sample.gif in Resources */ = {isa = PBXBuildFile; fileRef = 18667796271B3E3A00FC4E35 /* uiscrollview-sample.gif */; };
 		18A6DC692719E858005F548D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A6DC682719E858005F548D /* AppDelegate.swift */; };
 		18A6DC6B2719E858005F548D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A6DC6A2719E858005F548D /* SceneDelegate.swift */; };
 		18A6DC6D2719E858005F548D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A6DC6C2719E858005F548D /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18667796271B3E3A00FC4E35 /* uiscrollview-sample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "uiscrollview-sample.gif"; path = "../../../Downloads/uiscrollview-sample.gif"; sourceTree = "<group>"; };
 		18A6DC652719E858005F548D /* ScrollViewInRegisterScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollViewInRegisterScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A6DC682719E858005F548D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18A6DC6A2719E858005F548D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		18A6DC5C2719E858005F548D = {
 			isa = PBXGroup;
 			children = (
+				18667796271B3E3A00FC4E35 /* uiscrollview-sample.gif */,
 				18A6DC672719E858005F548D /* ScrollViewInRegisterScreen */,
 				18A6DC662719E858005F548D /* Products */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				18A6DC752719E858005F548D /* LaunchScreen.storyboard in Resources */,
 				18A6DC722719E858005F548D /* Assets.xcassets in Resources */,
+				18667797271B3E3A00FC4E35 /* uiscrollview-sample.gif in Resources */,
 				18A6DC702719E858005F548D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
